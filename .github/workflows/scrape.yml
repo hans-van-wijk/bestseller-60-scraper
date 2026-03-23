@@ -41,7 +41,7 @@ jobs:
       #   run: python bestseller60_scraper.py --genre koken
 
       - name: Copy latest JSON to fixed filename
-        run: cp bestseller60_spannend_*.json latest.json
+        run: ls -la cp bestseller60_spannend_*.json latest.json
 
       - name: Commit and push JSON output
         run: |
