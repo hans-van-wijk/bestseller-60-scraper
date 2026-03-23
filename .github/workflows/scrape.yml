@@ -5,16 +5,19 @@ on:
     - cron: "0 8 * * 1" # Every Monday at 08:00 UTC
   workflow_dispatch: # Allow manual runs from GitHub Actions tab
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4.2.2
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v5.4.0
         with:
           python-version: "3.11"
 
@@ -37,10 +40,13 @@ jobs:
       # - name: Run scraper — koken
       #   run: python bestseller60_scraper.py --genre koken
 
+      - name: Copy latest JSON to fixed filename
+        run: cp bestseller60_spannend_*.json latest.json
+
       - name: Commit and push JSON output
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add *.json
+          git add *.json latest.json
           git diff --staged --quiet || git commit -m "chore: weekly bestseller update $(date +'%Y-W%V')"
           git push
