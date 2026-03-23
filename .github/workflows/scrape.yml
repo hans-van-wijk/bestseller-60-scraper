@@ -1,0 +1,46 @@
+name: Weekly Bestseller Scrape
+
+on:
+  schedule:
+    - cron: "0 8 * * 1" # Every Monday at 08:00 UTC
+  workflow_dispatch: # Allow manual runs from GitHub Actions tab
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run scraper — spannend
+        run: python bestseller60_scraper.py --genre spannend
+
+      # Uncomment to scrape additional genres:
+      # - name: Run scraper — fictie
+      #   run: python bestseller60_scraper.py --genre fictie
+
+      # - name: Run scraper — non-fictie
+      #   run: python bestseller60_scraper.py --genre non-fictie
+
+      # - name: Run scraper — jeugd
+      #   run: python bestseller60_scraper.py --genre jeugd
+
+      # - name: Run scraper — koken
+      #   run: python bestseller60_scraper.py --genre koken
+
+      - name: Commit and push JSON output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add *.json
+          git diff --staged --quiet || git commit -m "chore: weekly bestseller update $(date +'%Y-W%V')"
+          git push
