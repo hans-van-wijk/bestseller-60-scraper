@@ -40,11 +40,8 @@ jobs:
       # - name: Run scraper — koken
       #   run: python bestseller60_scraper.py --genre koken
 
-      - name: Debug — list files after scrape
-        run: ls -la
-
       - name: Copy latest JSON to fixed filename
-        run: ls bestseller60_spannend_*.json | sort | tail -1 | xargs -I{} cp {} latest.json
+        run: cp $(ls -t bestseller60_spannend_*.json | head -n1) latest.json
 
       - name: Commit and push JSON output
         run: |
