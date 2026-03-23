@@ -94,8 +94,8 @@ name: Weekly Bestseller Scrape
 
 on:
   schedule:
-    - cron: '0 8 * * 1'   # Every Monday at 08:00 UTC
-  workflow_dispatch:        # Also allow manual runs
+    - cron: "0 8 * * 1" # Every Monday at 08:00 UTC
+  workflow_dispatch: # Also allow manual runs
 
 jobs:
   scrape:
@@ -106,13 +106,13 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Install dependencies
         run: pip install requests beautifulsoup4
 
       - name: Run scraper
-        run: python bestseller60_scraper.py --genre spannend
+        run: python bestseller60_scraper.py
 
       - name: Commit & push JSON
         run: |
