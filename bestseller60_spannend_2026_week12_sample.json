@@ -1,0 +1,229 @@
+{
+  "genre": "spannend",
+  "week": 12,
+  "year": 2026,
+  "scraped_at": "2026-03-20T10:00:00Z",
+  "source_url": "https://www.debestseller60.nl/spannend",
+  "books": [
+    {
+      "rank": 1,
+      "title": "Het ultieme geheim",
+      "author": "Dan Brown",
+      "cover_url": "https://www.debestseller60.nl/cover/thumb/bf/9789021056531.jpg",
+      "publisher": "Luitingh-Sijthoff",
+      "price": "€ 29,99",
+      "isbn": "9789021056531",
+      "publish_date": "09-09-2025",
+      "description": "In een zinderende race door Praag moet Robert Langdon vechten voor zijn leven, maar ook voor de toekomst van de mensheid."
+    },
+    {
+      "rank": 2,
+      "title": "De grootste fout",
+      "author": "M.J. Arlidge & Lisa Hall",
+      "cover_url": "https://www.debestseller60.nl/hebban/covers/6b/6b93503c26286b62737bebd665573db1.jpg",
+      "publisher": "Meulenhoff Boekerij",
+      "price": "€ 22,99",
+      "isbn": "9789049208806",
+      "publish_date": "17-02-2026",
+      "description": "Alles is moeilijker sinds een gezin wordt verrast met de komst van baby Erin. Als het kind tijdens een feest verdwijnt en iedereen een verdachte wordt, bereiken de gezinsleden hun breekpunt."
+    },
+    {
+      "rank": 3,
+      "title": "De val van de koning",
+      "author": "Jeroen Windmeijer",
+      "cover_url": "https://static.unbidan.nl/covers/2e01a8c0-80f1-4401-903f-28e4ea737dac-220.jpg",
+      "publisher": "HarperCollins",
+      "price": "€ 24,99",
+      "isbn": "9789402719680",
+      "publish_date": "03-03-2026",
+      "description": "Op de Paardenmarkt in Delft ontploft een bomkraag om de nek van een man die zegt er niets mee te maken te hebben."
+    },
+    {
+      "rank": 4,
+      "title": "Dodelijke dreiging",
+      "author": "Karen Rose",
+      "cover_url": "https://static.unbidan.nl/covers/08f23d02-7845-4901-9144-8af6e8ac2fd9-220.jpg",
+      "publisher": "De Fontein",
+      "price": "€ 21,99",
+      "isbn": "9789026182259",
+      "publish_date": "10-03-2026",
+      "description": "Na de vondst van het toegetakelde lichaam van een politicus krijgt rechercheur Kit McKittrick te maken met een moordenaar die systematisch alle losse eindjes uitwist."
+    },
+    {
+      "rank": 5,
+      "title": "Lieve Debbie",
+      "author": "Freida McFadden",
+      "cover_url": "https://www.debestseller60.nl/hebban/covers/9c/9cb394fa89cb9054edea99493260ef52.jpg",
+      "publisher": "Luitingh-Sijthoff",
+      "price": "€ 22,99",
+      "isbn": "9789032521677",
+      "publish_date": "03-02-2026",
+      "description": "Jarenlang heeft ze de beste adviezen verzameld in haar column Lieve Debbie, maar nu dreigt haar eigen leven uit de hand te lopen."
+    },
+    {
+      "rank": 6,
+      "title": "Tom Clancy Daad van verzet",
+      "author": "Brian Andrews & Jeffrey Wilson",
+      "cover_url": "https://static.unbidan.nl/covers/20268e41-52a1-4ac8-a8d6-e38e70087375-220.jpg",
+      "publisher": "A.W. Bruna",
+      "price": "€ 24,99",
+      "isbn": "9789400518711",
+      "publish_date": "10-03-2026",
+      "description": "Een nieuwe generatie Ryans moet de plannen rondom een geheime missie van een mysterieuze Russische onderzeeër zien te achterhalen."
+    },
+    {
+      "rank": 7,
+      "title": "De zevende maan",
+      "author": "Piergiorgio Pulixi",
+      "cover_url": "https://static.unbidan.nl/covers/9a0c71e2-c7cd-4f62-b5cb-6a2d81a816fe-220.jpg",
+      "publisher": "A.W. Bruna",
+      "price": "€ 22,99",
+      "isbn": "9789400519701",
+      "publish_date": "03-03-2026",
+      "description": "Commissaris Vito Strega onderzoekt samen met Eva Croce en Mara Rais de moord op een meisje in Lombardije."
+    },
+    {
+      "rank": 8,
+      "title": "De nomade",
+      "author": "Anya Niewierra",
+      "cover_url": "https://www.debestseller60.nl/hebban/covers/6b/6b1bd4b22ed73c2495cf9d75800be8f9.png",
+      "publisher": "Luitingh-Sijthoff",
+      "price": "€ 15,99",
+      "isbn": "9789021055695",
+      "publish_date": "09-10-2025",
+      "description": "Wanneer Olga's dementerende vader herinneringen begint op te halen die niet rijmen met de geschiedenis zoals zij die kent, gaat ze twijfelen over haar achtergrond."
+    },
+    {
+      "rank": 9,
+      "title": "De Camino",
+      "author": "Anya Niewierra",
+      "cover_url": "https://www.debestseller60.nl/hebban/covers/33/33ae38c3110c76645d8bb753ab0335e4.jpg",
+      "publisher": "Luitingh-Sijthoff",
+      "price": "€ 15,-",
+      "isbn": "9789021031132",
+      "publish_date": "07-06-2022",
+      "description": "Een jaar nadat haar man zelfmoord pleegde op de Camino loopt Lotte dezelfde route en ontrafelt een duister geheim."
+    },
+    {
+      "rank": 10,
+      "title": "De val",
+      "author": "David Baldacci",
+      "cover_url": "https://www.debestseller60.nl/hebban/covers/43/439efbac9d128c0a90757db7b0163174.jpg",
+      "publisher": "A.W. Bruna",
+      "price": "€ 24,99",
+      "isbn": "9789400519299",
+      "publish_date": "11-11-2025",
+      "description": "De succesvolle en zachtaardige zakenman Walter Nash moet een man van geweld en fysieke kracht worden als hij wordt beschuldigd van het misbruiken en de verdwijning van zijn dochter."
+    },
+    {
+      "rank": 11,
+      "title": "Alter ego",
+      "author": "Esther Verhoef",
+      "cover_url": "https://www.debestseller60.nl/hebban/covers/84/84f6fbf3278b2a83ccb62c89fa9be50c.jpeg",
+      "publisher": "Prometheus",
+      "price": "€ 15,99",
+      "isbn": "9789044661484",
+      "publish_date": "10-02-2026",
+      "description": "Lynn en haar man zijn samen een echt powerkoppel, maar daarnaast onderhoudt zij een gepassioneerde affaire."
+    },
+    {
+      "rank": 12,
+      "title": "Baantjer. De Cock en de moord in de donkere dagen",
+      "author": "Peter Römer",
+      "cover_url": "https://www.debestseller60.nl/hebban/covers/e8/e87958cd6222b08cfa737f32a6afcdf0.jpg",
+      "publisher": "De Fontein",
+      "price": "€ 12,99",
+      "isbn": "9789026175190",
+      "publish_date": "13-01-2026",
+      "description": "Rechercheur De Cock is verbijsterd als hij hoort dat de Sint is omgebracht in een warenhuis op de Dam."
+    },
+    {
+      "rank": 13,
+      "title": "Een voor een",
+      "author": "Freida McFadden",
+      "cover_url": "https://static.unbidan.nl/covers/5bf39a55-f531-4fed-b009-c91157ee5e75-220.jpg",
+      "publisher": "Luitingh-Sijthoff",
+      "price": "€ 22,99",
+      "isbn": "9789032521547",
+      "publish_date": "05-03-2026",
+      "description": "Wanneer de minivan van Claire het begeeft, moeten zij en haar reisgenoten te voet naar hun hotel. Terwijl ze dieper het bos intrekken, verdwijnen ze een voor een."
+    },
+    {
+      "rank": 14,
+      "title": "Post mortem",
+      "author": "Frank van de Goot",
+      "cover_url": "https://www.debestseller60.nl/cover/thumb/6a/GootFrankvande-PostMortem-voorplatLR.jpg",
+      "publisher": "Luitingh-Sijthoff",
+      "price": "€ 21,99",
+      "isbn": "9789021056708",
+      "publish_date": "11-11-2025",
+      "description": "De bekendste Nederlandse forensisch en klinisch patholoog Frank van der Goot vertelt vol passie over zijn dagelijkse werkzaamheden."
+    },
+    {
+      "rank": 15,
+      "title": "Gebroken engelen",
+      "author": "Karin Slaughter",
+      "cover_url": "https://static.unbidan.nl/covers/6edd8b1d-0d6f-4205-ad1b-d70d4001cdb5-220.jpg",
+      "publisher": "HarperCollins",
+      "price": "€ 15,99",
+      "isbn": "9789402719833",
+      "publish_date": "03-03-2026",
+      "description": "Tijdens een vuurwerkshow op 4 juli verdwijnen twee tienermeisjes, waaronder een bekende van agent Emmy Clifton."
+    },
+    {
+      "rank": 16,
+      "title": "Vergelding",
+      "author": "Michael Berg",
+      "cover_url": "https://www.debestseller60.nl/hebban/covers/4c/4c30884732cbfbef951f79a0a697f186.jpg",
+      "publisher": "Ambo|Anthos",
+      "price": "€ 23,99",
+      "isbn": "9789026359095",
+      "publish_date": "27-01-2026",
+      "description": "Alex stort zich op een nieuwe coldcase, een moord uit 1974 op de moeder-overste van een meisjesinternaat."
+    },
+    {
+      "rank": 17,
+      "title": "De weduwe",
+      "author": "John Grisham",
+      "cover_url": "https://www.debestseller60.nl/hebban/covers/c5/c59aa5b45cae1ebe9df649c345074366.jpg",
+      "publisher": "A.W. Bruna",
+      "price": "€ 24,99",
+      "isbn": "9789400519237",
+      "publish_date": "21-10-2025",
+      "description": "Advocaat Simon Latch verdient net genoeg om rond te komen, maar door weduwe Eleanor keren zijn kansen."
+    },
+    {
+      "rank": 18,
+      "title": "Het bloemenmeisje",
+      "author": "Anya Niewierra",
+      "cover_url": "https://www.debestseller60.nl/hebban/covers/a7/a7467fbc6e1cffa6a8acdbfc5dd03903.jpg",
+      "publisher": "Luitingh-Sijthoff",
+      "price": "€ 15,-",
+      "isbn": "9789024593637",
+      "publish_date": "29-04-2021",
+      "description": "Nina leidt een teruggetrokken bestaan in de Pyreneeën, maar haar leven verandert wanneer zij bezoek krijgt van de Nederlandse Théa."
+    },
+    {
+      "rank": 19,
+      "title": "De hulp",
+      "author": "Freida McFadden",
+      "cover_url": "https://www.debestseller60.nl/cover/thumb/42/9789032522100.jpg",
+      "publisher": "Luitingh-Sijthoff",
+      "price": "€ 15,-",
+      "isbn": "9789032522100",
+      "publish_date": "11-12-2025",
+      "description": "Wanneer een jonge vrouw in dienst treedt bij de rijke familie Winchester, lijkt het de perfecte kans op een nieuw begin."
+    },
+    {
+      "rank": 20,
+      "title": "Vrij uitzicht",
+      "author": "Anya Niewierra",
+      "cover_url": "https://www.debestseller60.nl/cover/thumb/ad/9789024592104.jpg",
+      "publisher": "Luitingh-Sijthoff",
+      "price": "€ 15,-",
+      "isbn": "9789024592104",
+      "publish_date": "25-09-2020",
+      "description": "Het leven van Tess wordt getekend door een diep geheim. Als ze een eeuwenoud chateau in Zuid-Frankrijk als vastgoed ontwikkelt, zet ze de verhoudingen op scherp."
+    }
+  ]
+}
