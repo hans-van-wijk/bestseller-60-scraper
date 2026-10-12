@@ -1,0 +1,209 @@
+{
+  "genre": "spannend",
+  "week": 41,
+  "year": 2026,
+  "scraped_at": "2026-10-12T17:16:34.115113Z",
+  "source_url": "https://www.debestseller60.nl/spannend",
+  "books": [
+    {
+      "cover_url": "https://static.unbidan.nl/covers/72262a1c-eae1-4bce-a561-6dfab3cfa801-220.jpg",
+      "title": "Threshing day",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 1
+    },
+    {
+      "cover_url": "https://static.unbidan.nl/covers/0b3816de-8f32-45a4-a405-919e19ab024f-220.jpg",
+      "title": "Schiereiland",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 2
+    },
+    {
+      "cover_url": "https://static.unbidan.nl/covers/6bb1bba0-282d-4733-bc01-d47def14306c-220.jpg",
+      "title": "De Franse illusie",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 3
+    },
+    {
+      "cover_url": "https://static.unbidan.nl/covers/f8c9ff07-8be3-48fd-bd2c-8718719a412b-220.jpg",
+      "title": "Sluipmoord",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 4
+    },
+    {
+      "cover_url": "https://static.unbidan.nl/covers/db1abf32-2b5a-41d9-a21e-8eef1541a639-220.jpg",
+      "title": "Yesteryear",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 5
+    },
+    {
+      "cover_url": "https://www.debestseller60.nl/hebban/covers/2d/2db68ba6d565c7ef8c033b2bd6607c31.jpg",
+      "title": "Terugkeer",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 6
+    },
+    {
+      "cover_url": "https://static.unbidan.nl/covers/bab62409-90bb-4e84-97ca-f136343212d8-220.jpg",
+      "title": "Agrippa",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 7
+    },
+    {
+      "cover_url": "https://static.unbidan.nl/covers/96646e78-8651-4388-b55b-630749a92ee1-220.jpg",
+      "title": "Onderstroom",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 8
+    },
+    {
+      "cover_url": "https://static.unbidan.nl/covers/6f1ca45a-4c7d-4f52-b901-f52c6fad9e1c-220.jpg",
+      "title": "Verkeerde afslag",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 9
+    },
+    {
+      "cover_url": "https://static.unbidan.nl/covers/080c0fd6-4eeb-4469-ba58-d9fc0b1c8055-220.jpg",
+      "title": "Stille geheimen",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 10
+    },
+    {
+      "cover_url": "https://www.debestseller60.nl/hebban/covers/4c/4c30884732cbfbef951f79a0a697f186.jpg",
+      "title": "Vergelding",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 11
+    },
+    {
+      "cover_url": "https://www.debestseller60.nl/cover/thumb/bf/9789021056531.jpg",
+      "title": "Het ultieme geheim",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 12
+    },
+    {
+      "cover_url": "https://static.unbidan.nl/covers/2ecfedf7-1c83-4fa0-95aa-1d704eaba176-220.jpg",
+      "title": "The Ascended",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 13
+    },
+    {
+      "cover_url": "https://static.unbidan.nl/covers/f9c8f37a-c186-4daf-b964-e9d4a93d8cda-220.jpg",
+      "title": "Baantjer. De Cock en moord in de praktijk",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 14
+    },
+    {
+      "cover_url": "https://static.unbidan.nl/covers/7de2556f-ed16-4f93-9d15-f1294d369cc3-220.jpg",
+      "title": "Weekendje weg",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 15
+    },
+    {
+      "cover_url": "https://static.unbidan.nl/covers/3ab39d8e-4d22-4847-9eb3-4f53875cf3e6-220.jpg",
+      "title": "De terugkeer",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 16
+    },
+    {
+      "cover_url": "https://static.unbidan.nl/covers/bed88848-b6bb-4625-a944-9f2102d57cb1-220.jpg",
+      "title": "B&B Italia",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 17
+    },
+    {
+      "cover_url": "https://www.debestseller60.nl/hebban/covers/33/33ae38c3110c76645d8bb753ab0335e4.jpg",
+      "title": "De Camino",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 18
+    },
+    {
+      "cover_url": "https://static.unbidan.nl/covers/65ce0fae-3113-4400-b1df-8504e35843c6-220.jpg",
+      "title": "Perfecte jacht",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 19
+    },
+    {
+      "cover_url": "https://static.unbidan.nl/covers/f85e03f8-966d-473a-8aa9-267fa4976e1a-220.jpg",
+      "title": "De vrouw van mijn echtgenoot",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 20
+    }
+  ]
+}
