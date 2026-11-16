@@ -1,0 +1,209 @@
+{
+  "genre": "spannend",
+  "week": 46,
+  "year": 2026,
+  "scraped_at": "2026-11-16T17:49:46.405195Z",
+  "source_url": "https://www.debestseller60.nl/spannend",
+  "books": [
+    {
+      "cover_url": "https://static.unbidan.nl/covers/57e5bccb-1bd4-485c-997a-76bace22f18b-220.jpg",
+      "title": "De gevangene",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 1
+    },
+    {
+      "cover_url": "https://static.unbidan.nl/covers/7cc0f63b-35c2-4d0d-816c-1ac9eae1c1e3-220.jpg",
+      "title": "Kettingreactie",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 2
+    },
+    {
+      "cover_url": "https://static.unbidan.nl/covers/0b3816de-8f32-45a4-a405-919e19ab024f-220.jpg",
+      "title": "Schiereiland",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 3
+    },
+    {
+      "cover_url": "https://static.unbidan.nl/covers/6bb1bba0-282d-4733-bc01-d47def14306c-220.jpg",
+      "title": "De Franse illusie",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 4
+    },
+    {
+      "cover_url": "https://static.unbidan.nl/covers/6588696b-9393-4128-868c-a0736c154b42-220.jpg",
+      "title": "Haar laatste adem",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 5
+    },
+    {
+      "cover_url": "https://static.unbidan.nl/covers/642456f2-54fe-4874-96bd-76d6bab18960-220.jpg",
+      "title": "De laatste lezer",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 6
+    },
+    {
+      "cover_url": "https://static.unbidan.nl/covers/b5dea20a-f0d4-42ef-9f48-0b5907ecdf35-220.jpg",
+      "title": "Hof van versplinterde harmonieën",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 7
+    },
+    {
+      "cover_url": "https://static.unbidan.nl/covers/fa46ef14-a096-45e0-a482-745fa5db082a-220.jpg",
+      "title": "De heks",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 8
+    },
+    {
+      "cover_url": "https://static.unbidan.nl/covers/e91d5a95-0ca8-4072-84e7-8cab53139ef0-220.jpg",
+      "title": "Tom Clancy. Defensieprotocol",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 9
+    },
+    {
+      "cover_url": "https://static.unbidan.nl/covers/4f63dcf2-1b18-4f2e-a5d1-1f4ba374985d-220.jpg",
+      "title": "Gouden uur",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 10
+    },
+    {
+      "cover_url": "https://static.unbidan.nl/covers/862a72bb-a1b7-4ce8-9ea3-c972780a5337-220.jpg",
+      "title": "Texel",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 11
+    },
+    {
+      "cover_url": "https://static.unbidan.nl/covers/b56c1476-631c-458b-822d-2330566b3b3b-220.jpg",
+      "title": "Andere werelden dan deze",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 12
+    },
+    {
+      "cover_url": "https://static.unbidan.nl/covers/db1abf32-2b5a-41d9-a21e-8eef1541a639-220.jpg",
+      "title": "Yesteryear",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 13
+    },
+    {
+      "cover_url": "https://www.debestseller60.nl/hebban/covers/2d/2db68ba6d565c7ef8c033b2bd6607c31.jpg",
+      "title": "Terugkeer",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 14
+    },
+    {
+      "cover_url": "https://static.unbidan.nl/covers/6a5dc3db-2c1c-40ac-9f54-f62ca2051a13-220.jpg",
+      "title": "Mooie meisjes",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 15
+    },
+    {
+      "cover_url": "https://www.debestseller60.nl/hebban/covers/4c/4c30884732cbfbef951f79a0a697f186.jpg",
+      "title": "Vergelding",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 16
+    },
+    {
+      "cover_url": "https://static.unbidan.nl/covers/72262a1c-eae1-4bce-a561-6dfab3cfa801-220.jpg",
+      "title": "Threshing day",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 17
+    },
+    {
+      "cover_url": "https://static.unbidan.nl/covers/de9b8f74-b3b8-42fa-87d5-4ea028fdd3bf-220.jpg",
+      "title": "Hof van doorns en rozen",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 18
+    },
+    {
+      "cover_url": "https://static.unbidan.nl/covers/080c0fd6-4eeb-4469-ba58-d9fc0b1c8055-220.jpg",
+      "title": "Stille geheimen",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 19
+    },
+    {
+      "cover_url": "https://www.debestseller60.nl/cover/thumb/bf/9789021056531.jpg",
+      "title": "Het ultieme geheim",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "publish_date": "",
+      "description": "",
+      "rank": 20
+    }
+  ]
+}
